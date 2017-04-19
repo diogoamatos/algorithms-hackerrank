@@ -36,4 +36,3 @@ for i in a:
     x = mmc_selector(i, x)
 
 print len(x)
-# print x_filtered
