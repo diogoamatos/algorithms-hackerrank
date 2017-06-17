@@ -10,3 +10,6 @@ Trilhas de programação HackerRank.com
 6. Graph Theory
 7.
 8.
+
+
+> De pouco em pouco vamos pegando ritmo
