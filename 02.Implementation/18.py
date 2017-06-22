@@ -39,4 +39,5 @@ for nota in alice:
     print position
 
 # Nao esta passando pelos testes 6, 7, 8 e 9 devido a timeout
-# Nao sei como
+# https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+# Nao sei como diminuir a Complexidade
