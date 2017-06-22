@@ -37,3 +37,6 @@ for nota in alice:
 
     pos = tmp
     print position
+
+# Nao esta passando pelos testes 6, 7, 8 e 9 devido a timeout
+# Nao sei como
